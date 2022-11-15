@@ -11,7 +11,8 @@
       "cwd": "c:/Users/Habte/Blackhat/binary_trees",
       "program": "c:/Users/Habte/Blackhat/binary_trees/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+     // "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:\\MinGw\\bin\\gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
